@@ -1,0 +1,52 @@
+Calculator-Changelog
+03/05/2024
+0.1: Program written.
+0.2: Added " in the third line to terminate the string literal
+0.3: Added more apostrophes to begin string literals
+0.4: Added extra equals signs
+0.5: Changed all but the first "if" statement to "elif" statements
+0.6: Ensured that input would be recognized as floating-point numbers
+0.7: Ensured that calculator could be used an infinite number of times without stopping
+0.8: Fixed mechanism to actually achieve goal of 0.7 (hopefully...)
+0.9: Further fixed loop mechanism
+0.10: Changed loop mechanism again due to bugs
+0.11: Minor bug fix
+0.12: Minor bug fix
+0.13: Trying these fixes to see if they work but there's always something else...
+0.14: Terminated loop properly
+0.15: Indentation bug fix
+0.16: See 0.15.
+0.17: Program finished (for now); it now displays "All done!" when done
+0.18: Program not finished; implementing methods to properly terminate loop
+0.19: Fixed indentation bugs
+0.20: Fixed (?) loop and end message
+0.21: Likely actually fixed the loop problem
+0.22: Fixed syntax bug
+0.23: Fixed other syntax bug
+It works! (Celebration emojis)
+1.0: No change from 0.23, other than version name
+The following lines (including this one) were written from a Python interpreter.
+03/07/24
+Testing, testing! Is this thing on?
+1.1: Imported math module to add functionality
+03/09/24
+1.2: Imported "random" module; fleshed out operations
+03/12/14
+1.2: Finished current version for testing
+03/13/24
+1.3: Start of fixes to "quad" function
+1.4: Minor bug fix
+1.5: Consulted Copilot for fixing domain error
+1.6: Finished work on "quad" function
+1.7: Implemented potential fix for the rest of the functions
+03/14/24
+1.7: Finished version, with major overhaul that hopefully makes calculator work as intended
+1.8: Fixed cause of problem for other operations. Calculator should now be fully functional!
+1.9: Development version, for fixing a lot of bugs
+2.0: Fully-functional calculator! :-D
+Possible additions in next version: More shapes, volume formulas, other operations supported by math module, and (possibly) a loop to get all operations done at once???
+03/19/24
+2.1: Added support for first 3 trig functions (sin, cos, tan)
+03/22/24
+2.2: Added the 21 other trig functions
+2.3: Added the rest of the constants included in math
