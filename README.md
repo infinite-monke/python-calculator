@@ -1,5 +1,5 @@
 # python-calculator
-A calculator that (eventually) will be able to carry out every operation in Python's math, cmath, and random modules.
+A calculator that is able to carry out every operation in Python's math and cmath modules.
 
 # Installing the Calculator
 First clone the repo with this command:
